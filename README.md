@@ -1,4 +1,4 @@
-
+# Mas-More Cosmetics Sales Analysis
 
 ### Problem Statement
 - Data Fragmentation: Sales data is collected manually across the two branches, leading to fragmentated, error-prone records.
