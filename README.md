@@ -1,4 +1,4 @@
-# Mas-More Cosmetics Sales Analysis
+# Mas-More Ventures Cosmetics Sales Data Analysis and Visualization
 Mas More Ventures is a cosmetic company operating in Nigeria with dedicated team of 25 staff members, the company specialize in producing and distributing a wide range of cosmetic products, including skincare, makeup and frangrance. Mas-More has a reputation for offering high-quality, locally-sourced products that cater to the diverse beauty needs of its customers. The company operates three branches strategically located in different regions of Nigeria, serving as hubs for product distribution and customer engagement.
 
 In just 2 years in business, Mas_more Ventures has continually expanded its product range to meet the evolving beauty needs of its customers. The company invests in research and development to stay at the forefront of cosmetic innovation. This commitment has allowed Mas-More to offere a diverse portfolio that includes skincare items like eyeshadow, as well as array of frangrances and fashion accessories.
