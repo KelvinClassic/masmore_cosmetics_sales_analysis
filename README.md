@@ -58,6 +58,6 @@ Visit the [data description page](data_description.md) to get detailed informati
     - Create dashboard in a new sheet to display these insights.
 
 ### Insights and Recommendations
-Folow the [Insight and recommendation link](insights_and_recommendations) to get information for this section.
+Follow the [Insight and recommendation link](insights_and_recommendations) for information regarding this section.
 
 
